@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fast Calculation</string>
+    <string name="player_name">Digite seu nome</string>
+    <string name="rounds">Escolha Quantidade De Rodadas</string>
+    <string name="round_interval">Tempo Resposta em Segundos</string>
+    <string name="one">1</string>
+    <string name="three">3</string>
+    <string name="five">5</string>
+    <string name="lets_go">Inicia jogo</string>
+    <string name="settings">Configurações</string>
+    <string name="game">Game</string>
+    <string name="restart_game">Restart game</string>
+    <string name="exit">Exit</string>
+    <string-array name="rounds">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="play">Play</string>
+    <!--string name="result_format">Resultado: %.1f pontos</string-->
+    <!--string name="result_format">Você acertou %d perguntas!</string-->
+    <string name="results">Resultados</string>
+    <string name="result_format">Você acertou %d conta(s)!</string>
+    <string name="resultado">Resultado</string>
+
+</resources>
